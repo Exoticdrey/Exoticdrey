@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Exoticdrey
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS
+- 👀 Im a web developer.
 - 📫 How to reach me - cobi658@gmail.com
 - 😄 Pronouns: she/her
 
